@@ -1,0 +1,87 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# C++ generated files
+*.o
+*.a
+*.d
+*.lo
+*.la
+
+
+# generated files
+bin/
+gen/
+target/
+debug/
+armeabi*/
+x86/
+obj/
+build/
+hocr2pdf/objdir/
+hocr2pdf/Debug
+hocr2pdf/Default
+OCRTest/Debug
+OCRTest/Release
+
+# Local configuration file (sdk path, etc)
+local.properties
+build.xml
+
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio project files
+*.iml
+
+# svn files
+.svn/
+
+.settings/
+
+# hidden directories
+.*/
+
+# mac finder
+.DS_Store
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+# Avoid ignoring YouTubeAndroidPlayerApi.jar (.jar files are usually ignored)
+!YouTubeAndroidPlayerApi.jar
+# Avoid ignoring testate.zip
+!tessdata.zip
+
+libjpeg/testoutt.jpg
+libjpeg/testoutp.ppm
+libjpeg/testoutp.jpg
+libjpeg/testout.ppm
+libjpeg/testout.jpg
+libjpeg/testout.bmp
+tesseract-ocr-read-only/autom4te.cache
+Makefile
+Makefile.in
+aclocal.m4
+libjpeg/libtool
+tesseract-ocr-read-only/libtool
+configure
+OCRTest/Default/codecs/subdir.mk
+OCRTest/Default/lib/subdir.mk
+OCRTest/Default/src/subdir.mk
+OCRTest/Default/utility/subdir.mk
+OCRTest/Default
+signing.properties
+makefile.static
+config.status
+libjpeg.9.dylib
+test.pdf
+fabric.properties
