@@ -1,0 +1,131 @@
+C:/Users/12125/Desktop/OCR/textfairy/tess-two/tess-two/obj/local/armeabi/objs/pngo/pngerror.o: \
+ C:/Users/12125/Desktop/OCR/textfairy/tess-two/tess-two/jni/../../../libpng-android/jni/pngerror.c \
+ C:/Users/12125/Desktop/OCR/textfairy/tess-two/tess-two/jni/../../../libpng-android/jni/png.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/zlib.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/zconf.h \
+ C:/Users/12125/Desktop/OCR/textfairy/tess-two/tess-two/jni/../../../libpng-android/jni/pngconf.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/limits.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/cdefs.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/cdefs_elf.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/android/api-level.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/limits.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/linux/limits.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/machine/internal_types.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/machine/limits.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/syslimits.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/asm/page.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/stdio.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/types.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/stdint.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/_types.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/machine/_types.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/_wchar_limits.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/linux/posix_types.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/linux/stddef.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/linux/compiler.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/asm/posix_types.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/asm/types.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/linux/types.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/machine/kernel.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/sysmacros.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/setjmp.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/machine/setjmp.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/string.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/malloc.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/time.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/time.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/linux/time.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/asm/siginfo.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/asm-generic/siginfo.h \
+ C:/Users/12125/Desktop/OCR/textfairy/tess-two/tess-two/jni/../../../libpng-android/jni/pngpriv.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/stdlib.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/alloca.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/strings.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/memory.h \
+ E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/math.h
+
+C:/Users/12125/Desktop/OCR/textfairy/tess-two/tess-two/jni/../../../libpng-android/jni/png.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/zlib.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/zconf.h:
+
+C:/Users/12125/Desktop/OCR/textfairy/tess-two/tess-two/jni/../../../libpng-android/jni/pngconf.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/limits.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/cdefs.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/cdefs_elf.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/android/api-level.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/limits.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/linux/limits.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/machine/internal_types.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/machine/limits.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/syslimits.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/asm/page.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/stdio.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/types.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/stdint.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/_types.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/machine/_types.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/_wchar_limits.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/linux/posix_types.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/linux/stddef.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/linux/compiler.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/asm/posix_types.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/asm/types.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/linux/types.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/machine/kernel.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/sysmacros.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/setjmp.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/machine/setjmp.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/string.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/malloc.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/time.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/sys/time.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/linux/time.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/asm/siginfo.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/asm-generic/siginfo.h:
+
+C:/Users/12125/Desktop/OCR/textfairy/tess-two/tess-two/jni/../../../libpng-android/jni/pngpriv.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/stdlib.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/alloca.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/strings.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/memory.h:
+
+E:/Apps/android-ndk-r10e/platforms/android-8/arch-arm/usr/include/math.h:
